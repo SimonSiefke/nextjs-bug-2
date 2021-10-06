@@ -7,6 +7,6 @@ npm ci &&
 npm run dev
 ```
 
-It shows the same warning 3 times for `A.tsx`:
+It shows the same warning 3 times for `src/A.tsx`:
 
 ![warning](./warning.png)
