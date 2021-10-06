@@ -1,0 +1,248 @@
+
+> my-app@0.1.0 dev
+> next dev
+
+ready - started server on 0.0.0.0:3000, url: http://localhost:3000
+info  - Using webpack 5. Reason: Enabled by default https://nextjs.org/docs/messages/webpack5
+warn  - ./src/A.tsx
+[33m[1mAnonymous arrow functions cause Fast Refresh to not preserve local component state.[22m[39m
+Please add a name to your function, for example:
+
+[1mBefore[22m
+[36mexport default () => <div />;[39m
+
+[1mAfter[22m
+[36mconst Named = () => <div />;[39m
+[36mexport default Named;[39m
+
+A codemod is available to fix the most common cases: [36mhttps://nextjs.link/codemod-ndc[39m
+
+./src/A.tsx
+[33m[1mAnonymous arrow functions cause Fast Refresh to not preserve local component state.[22m[39m
+Please add a name to your function, for example:
+
+[1mBefore[22m
+[36mexport default () => <div />;[39m
+
+[1mAfter[22m
+[36mconst Named = () => <div />;[39m
+[36mexport default Named;[39m
+
+A codemod is available to fix the most common cases: [36mhttps://nextjs.link/codemod-ndc[39m
+
+./src/A.tsx
+[33m[1mAnonymous arrow functions cause Fast Refresh to not preserve local component state.[22m[39m
+Please add a name to your function, for example:
+
+[1mBefore[22m
+[36mexport default () => <div />;[39m
+
+[1mAfter[22m
+[36mconst Named = () => <div />;[39m
+[36mexport default Named;[39m
+
+A codemod is available to fix the most common cases: [36mhttps://nextjs.link/codemod-ndc[39m
+info  - ready on http://localhost:3000
+event - build page: /next/dist/pages/_error
+wait  - compiling...
+warn  - ./src/A.tsx
+[33m[1mAnonymous arrow functions cause Fast Refresh to not preserve local component state.[22m[39m
+Please add a name to your function, for example:
+
+[1mBefore[22m
+[36mexport default () => <div />;[39m
+
+[1mAfter[22m
+[36mconst Named = () => <div />;[39m
+[36mexport default Named;[39m
+
+A codemod is available to fix the most common cases: [36mhttps://nextjs.link/codemod-ndc[39m
+
+./src/A.tsx
+[33m[1mAnonymous arrow functions cause Fast Refresh to not preserve local component state.[22m[39m
+Please add a name to your function, for example:
+
+[1mBefore[22m
+[36mexport default () => <div />;[39m
+
+[1mAfter[22m
+[36mconst Named = () => <div />;[39m
+[36mexport default Named;[39m
+
+A codemod is available to fix the most common cases: [36mhttps://nextjs.link/codemod-ndc[39m
+
+./src/A.tsx
+[33m[1mAnonymous arrow functions cause Fast Refresh to not preserve local component state.[22m[39m
+Please add a name to your function, for example:
+
+[1mBefore[22m
+[36mexport default () => <div />;[39m
+
+[1mAfter[22m
+[36mconst Named = () => <div />;[39m
+[36mexport default Named;[39m
+
+A codemod is available to fix the most common cases: [36mhttps://nextjs.link/codemod-ndc[39m
+info  - ready on http://localhost:3000
+wait  - compiling...
+warn  - ./src/A.tsx
+[33m[1mAnonymous arrow functions cause Fast Refresh to not preserve local component state.[22m[39m
+Please add a name to your function, for example:
+
+[1mBefore[22m
+[36mexport default () => <div />;[39m
+
+[1mAfter[22m
+[36mconst Named = () => <div />;[39m
+[36mexport default Named;[39m
+
+A codemod is available to fix the most common cases: [36mhttps://nextjs.link/codemod-ndc[39m
+
+./src/A.tsx
+[33m[1mAnonymous arrow functions cause Fast Refresh to not preserve local component state.[22m[39m
+Please add a name to your function, for example:
+
+[1mBefore[22m
+[36mexport default () => <div />;[39m
+
+[1mAfter[22m
+[36mconst Named = () => <div />;[39m
+[36mexport default Named;[39m
+
+A codemod is available to fix the most common cases: [36mhttps://nextjs.link/codemod-ndc[39m
+
+./src/A.tsx
+[33m[1mAnonymous arrow functions cause Fast Refresh to not preserve local component state.[22m[39m
+Please add a name to your function, for example:
+
+[1mBefore[22m
+[36mexport default () => <div />;[39m
+
+[1mAfter[22m
+[36mconst Named = () => <div />;[39m
+[36mexport default Named;[39m
+
+A codemod is available to fix the most common cases: [36mhttps://nextjs.link/codemod-ndc[39m
+info  - ready on http://localhost:3000
+event - build page: /next/dist/pages/_error
+wait  - compiling...
+warn  - ./src/A.tsx
+[33m[1mAnonymous arrow functions cause Fast Refresh to not preserve local component state.[22m[39m
+Please add a name to your function, for example:
+
+[1mBefore[22m
+[36mexport default () => <div />;[39m
+
+[1mAfter[22m
+[36mconst Named = () => <div />;[39m
+[36mexport default Named;[39m
+
+A codemod is available to fix the most common cases: [36mhttps://nextjs.link/codemod-ndc[39m
+
+./src/A.tsx
+[33m[1mAnonymous arrow functions cause Fast Refresh to not preserve local component state.[22m[39m
+Please add a name to your function, for example:
+
+[1mBefore[22m
+[36mexport default () => <div />;[39m
+
+[1mAfter[22m
+[36mconst Named = () => <div />;[39m
+[36mexport default Named;[39m
+
+A codemod is available to fix the most common cases: [36mhttps://nextjs.link/codemod-ndc[39m
+
+./src/A.tsx
+[33m[1mAnonymous arrow functions cause Fast Refresh to not preserve local component state.[22m[39m
+Please add a name to your function, for example:
+
+[1mBefore[22m
+[36mexport default () => <div />;[39m
+
+[1mAfter[22m
+[36mconst Named = () => <div />;[39m
+[36mexport default Named;[39m
+
+A codemod is available to fix the most common cases: [36mhttps://nextjs.link/codemod-ndc[39m
+info  - ready on http://localhost:3000
+wait  - compiling...
+warn  - ./src/A.tsx
+[33m[1mAnonymous arrow functions cause Fast Refresh to not preserve local component state.[22m[39m
+Please add a name to your function, for example:
+
+[1mBefore[22m
+[36mexport default () => <div />;[39m
+
+[1mAfter[22m
+[36mconst Named = () => <div />;[39m
+[36mexport default Named;[39m
+
+A codemod is available to fix the most common cases: [36mhttps://nextjs.link/codemod-ndc[39m
+
+./src/A.tsx
+[33m[1mAnonymous arrow functions cause Fast Refresh to not preserve local component state.[22m[39m
+Please add a name to your function, for example:
+
+[1mBefore[22m
+[36mexport default () => <div />;[39m
+
+[1mAfter[22m
+[36mconst Named = () => <div />;[39m
+[36mexport default Named;[39m
+
+A codemod is available to fix the most common cases: [36mhttps://nextjs.link/codemod-ndc[39m
+
+./src/A.tsx
+[33m[1mAnonymous arrow functions cause Fast Refresh to not preserve local component state.[22m[39m
+Please add a name to your function, for example:
+
+[1mBefore[22m
+[36mexport default () => <div />;[39m
+
+[1mAfter[22m
+[36mconst Named = () => <div />;[39m
+[36mexport default Named;[39m
+
+A codemod is available to fix the most common cases: [36mhttps://nextjs.link/codemod-ndc[39m
+info  - ready on http://localhost:3000
+event - build page: /next/dist/pages/_error
+wait  - compiling...
+warn  - ./src/A.tsx
+[33m[1mAnonymous arrow functions cause Fast Refresh to not preserve local component state.[22m[39m
+Please add a name to your function, for example:
+
+[1mBefore[22m
+[36mexport default () => <div />;[39m
+
+[1mAfter[22m
+[36mconst Named = () => <div />;[39m
+[36mexport default Named;[39m
+
+A codemod is available to fix the most common cases: [36mhttps://nextjs.link/codemod-ndc[39m
+
+./src/A.tsx
+[33m[1mAnonymous arrow functions cause Fast Refresh to not preserve local component state.[22m[39m
+Please add a name to your function, for example:
+
+[1mBefore[22m
+[36mexport default () => <div />;[39m
+
+[1mAfter[22m
+[36mconst Named = () => <div />;[39m
+[36mexport default Named;[39m
+
+A codemod is available to fix the most common cases: [36mhttps://nextjs.link/codemod-ndc[39m
+
+./src/A.tsx
+[33m[1mAnonymous arrow functions cause Fast Refresh to not preserve local component state.[22m[39m
+Please add a name to your function, for example:
+
+[1mBefore[22m
+[36mexport default () => <div />;[39m
+
+[1mAfter[22m
+[36mconst Named = () => <div />;[39m
+[36mexport default Named;[39m
+
+A codemod is available to fix the most common cases: [36mhttps://nextjs.link/codemod-ndc[39m
+info  - ready on http://localhost:3000
